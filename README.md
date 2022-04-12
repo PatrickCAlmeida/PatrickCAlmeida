@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **patrick.c.almeida@gmail.com**
 
-- 🌎 I speak Portuguese, French, and English
+- 🌎 I speak **Portuguese, French, and English**
 
 
 <h3 align="left">Connect with me:</h3>
