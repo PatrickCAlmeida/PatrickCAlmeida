@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Patrick Almeida</h1>
-<h3 align="center">An aspiring backend devlopper</h3>
+<h1 align=>Hi 👋, I'm Patrick Almeida</h1>
+<h3 align=>An aspiring backend devlopper</h3>
 
 - 🔭I’m open for **a job or internship as a backend dev**
 
 - 🌱 I’m currently learning **Ruby on rails**
 
 - 📫 How to reach me **patrick.c.almeida@gmail.com**
+
+- 🌎 I speak Portuguese, French, and English
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
